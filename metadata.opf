@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">c7cd2384-38f3-4de2-8fb6-1f2f0e2ae1ad</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7cd2384-38f3-4de2-8fb6-1f2f0e2ae1ad</dc:identifier>
+        <dc:title>Poor Charlie's Almanack_ The Wit and Wisdom of Charles T. Munger, Expanded Third Edition</dc:title>
+        <dc:creator opf:file-as="Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E. Buffett" opf:role="aut">Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E. Buffett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-30T21:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
